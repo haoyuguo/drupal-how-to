@@ -18,6 +18,5 @@ Reset:
 
 `drush site-install minimal --site-name=MYSITE`
 
-(May be used along with other options, such as username and password.  Although it's not working properly at this time. Using "standard" doesn't take much time anyway -- few minutes.)
+(May be used along with other options, such as username and password.  Although using "standard" doesn't take much time anyway -- few minutes.)
 
-`drush site-install standard --db-url='mysql://organized:organized@localhost/organized_d823' --site-name=Organized --account-name=admin --account-pass=password`
