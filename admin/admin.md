@@ -20,3 +20,15 @@ Reset:
 
 (May be used along with other options, such as username and password.  Although using "standard" doesn't take much time anyway -- few minutes.)
 
+## Command line theme download and installation with DrupalConsole
+
+This is for an existing theme project on Drupal.org (contributed theme).
+
+Download:
+
+`drupal theme:download THEME-PROJECT-NAME`
+
+Install:
+
+`drupal theme:install THEME-PROJECT-NAME [--set-default]` 
+
