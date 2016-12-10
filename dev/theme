@@ -1,7 +1,0 @@
-# Create a New Theme
-
-## Create a bare-bone new theme with DrupalConsole
-
-`drupal generate:theme`
-
-(feed paraemeters interactively)
