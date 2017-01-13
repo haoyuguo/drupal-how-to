@@ -32,3 +32,19 @@ Install:
 
 `drupal theme:install THEME-PROJECT-NAME [--set-default]` 
 
+## Command line theme download, installation, and activation with Drush
+
+This is for an existing theme project on Drupal.org (contributed theme).
+
+Download:
+
+`drush dl THEME-PROJECT-NAME`
+
+Install:
+
+`drush en THEME-PROJECT-NAME`
+
+Activate:
+
+`drush config-set system.theme default THEME-PROJECT-NAME'
+
